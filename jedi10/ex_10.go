@@ -1,4 +1,4 @@
-package jedi
+package jedi10
 
 import (
 	"fmt"
