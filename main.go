@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	ex "github.com/solairerove/go-ninja-lvl-6-playground/jedi"
+	ex2 "github.com/solairerove/go-ninja-lvl-6-playground/jedi2"
 )
 
 func main() {
@@ -13,7 +14,7 @@ func main() {
 
 	fmt.Println()
 
-	ex.Ex2()
+	ex2.Ex2()
 
 	fmt.Println()
 
